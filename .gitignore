@@ -1,9 +1,12 @@
 # Godot 4
 .godot/
 
-# Arquivos de importação gerados automaticamente
+# Arquivos de importação
 *.import/
 
 # Exportações
 /export/
 /exports/
+
+#arquivos temporários
+*.tmp
