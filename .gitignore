@@ -2,7 +2,7 @@
 .godot/
 
 # Arquivos de importação gerados automaticamente
-*.import
+*.import/
 
 # Exportações
 /export/
