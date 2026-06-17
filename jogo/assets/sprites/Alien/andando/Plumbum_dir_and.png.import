@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ct76h8frd2pnx"
-path="res://.godot/imported/Espaço.png-0157a54754ff1bdc55ffb79e5c371430.ctex"
+uid="uid://cfa1vhaupthuy"
+path="res://.godot/imported/Plumbum_dir_and.png-875a5c6ea279e9887d9408c14e9fe8d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/Outros/Espaço.png"
-dest_files=["res://.godot/imported/Espaço.png-0157a54754ff1bdc55ffb79e5c371430.ctex"]
+source_file="res://assets/sprites/Alien/andando/Plumbum_dir_and.png"
+dest_files=["res://.godot/imported/Plumbum_dir_and.png-875a5c6ea279e9887d9408c14e9fe8d8.ctex"]
 
 [params]
 

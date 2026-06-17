@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://yg5i8w81pggc"]
-
-[ext_resource type="Script" uid="uid://blfm1jxlyx5uo" path="res://script/inventário(não usado).gd" id="1_secoa"]
-
-[node name="inventário" type="Node2D"]
-script = ExtResource("1_secoa")

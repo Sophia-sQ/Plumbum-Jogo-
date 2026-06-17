@@ -2,13 +2,14 @@
 
 [ext_resource type="Texture2D" uid="uid://cix4mu6rtf7ty" path="res://assets/sprites/Alien/andando/Plumbum_cost_and.png" id="1_j03fv"]
 [ext_resource type="Script" uid="uid://m5cqynglo0kv" path="res://script/Plumbum_fase_3.gd" id="1_wlx72"]
-[ext_resource type="Texture2D" uid="uid://cfa1vhaupthuy" path="res://assets/sprites/Alien/andando/Plumbum_esq_and.png" id="2_wlx72"]
+[ext_resource type="Texture2D" uid="uid://cfa1vhaupthuy" path="res://assets/sprites/Alien/andando/Plumbum_dir_and.png" id="2_wlx72"]
 [ext_resource type="Texture2D" uid="uid://br7g2ok0sp4de" path="res://assets/sprites/Alien/andando/Plutton_esq_and.png" id="3_dsdaw"]
 [ext_resource type="Texture2D" uid="uid://3443rggtadn8" path="res://assets/sprites/Alien/andando/plumbum_and_frente.png" id="4_g5q7j"]
 [ext_resource type="Texture2D" uid="uid://bvg7bkd5vh7k4" path="res://assets/sprites/Alien/parado/Plumbum_cost_par.png" id="5_6gty2"]
 [ext_resource type="Texture2D" uid="uid://dimu0pnelvmlt" path="res://assets/sprites/Alien/parado/Plumbum_dir_par.png" id="6_aumuk"]
 [ext_resource type="Texture2D" uid="uid://csvcwx4qh2xye" path="res://assets/sprites/Alien/parado/Plumbum_esq_par.png" id="7_f36ny"]
 [ext_resource type="Texture2D" uid="uid://ch1d6f6wx423" path="res://assets/sprites/Alien/parado/plumbum_par_oficial.png" id="8_6k5c8"]
+
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_wlx72"]
 radius = 8.0

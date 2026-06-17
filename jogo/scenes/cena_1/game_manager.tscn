@@ -1,10 +1,11 @@
 [gd_scene load_steps=14 format=3 uid="uid://bjw7ol0r1ghsm"]
 
 [ext_resource type="Script" uid="uid://dgxuq3o4b7cty" path="res://script/game_manager.gd" id="1_glms7"]
-[ext_resource type="Texture2D" uid="uid://dvd3cuapxsl05" path="res://assets/sprites/Alien/Vida - Copia.png" id="2_udu3i"]
+[ext_resource type="Texture2D" uid="uid://dvd3cuapxsl05" path="res://assets/sprites/Alien/Vida.png" id="2_udu3i"]
 [ext_resource type="FontFile" uid="uid://cgbgrhu661ghy" path="res://assets/fonts/PixelOperator8-Bold.ttf" id="3_pffxd"]
 [ext_resource type="FontFile" uid="uid://44dh0tdthaie" path="res://assets/fonts/PixelOperator8.ttf" id="3_udu3i"]
 [ext_resource type="Script" uid="uid://cr6nofbihrh31" path="res://script/label_3.gd" id="4_oo155"]
+
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_oo155"]
 atlas = ExtResource("2_udu3i")

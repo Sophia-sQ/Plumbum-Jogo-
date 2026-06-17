@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://ddspsh8w1kaj" path="res://script/pluto_em_pe.gd" id="1_an3ob"]
 [ext_resource type="Texture2D" uid="uid://ch1d6f6wx423" path="res://assets/sprites/Alien/parado/plumbum_par_oficial.png" id="1_fk0du"]
 [ext_resource type="Texture2D" uid="uid://cix4mu6rtf7ty" path="res://assets/sprites/Alien/andando/Plumbum_cost_and.png" id="2_jaelu"]
-[ext_resource type="Texture2D" uid="uid://cfa1vhaupthuy" path="res://assets/sprites/Alien/andando/Plumbum_esq_and.png" id="3_0qpih"]
+[ext_resource type="Texture2D" uid="uid://cfa1vhaupthuy" path="res://assets/sprites/Alien/andando/Plumbum_dir_and.png" id="3_0qpih"]
 [ext_resource type="Texture2D" uid="uid://br7g2ok0sp4de" path="res://assets/sprites/Alien/andando/Plutton_esq_and.png" id="4_sldjk"]
 [ext_resource type="Texture2D" uid="uid://3443rggtadn8" path="res://assets/sprites/Alien/andando/plumbum_and_frente.png" id="5_0qpih"]
 [ext_resource type="Texture2D" uid="uid://bvg7bkd5vh7k4" path="res://assets/sprites/Alien/parado/Plumbum_cost_par.png" id="5_ux4mo"]
@@ -199,7 +199,7 @@ script = ExtResource("1_an3ob")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(0, -32)
 sprite_frames = SubResource("SpriteFrames_nq5rp")
-animation = &"anda_frente"
+animation = &"anda_direita"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-2, -27)
